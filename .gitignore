@@ -1,1 +1,6 @@
 *.csv
+config.py
+td_state.json
+env/
+figures/
+__pycache__
